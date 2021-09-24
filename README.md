@@ -56,3 +56,22 @@ This command downloads other commits, and files from other repository's. This is
 Git is computer program for following changes in any set of records, utilized for planning work among software engineers together, creating source code computer program improvements. Its objective is to incorporate speed, information, and support for communication, and organized workflows.
 
 # Github
+Github is a provider of internet hosting for software development and VCS using Git. It provides source code management and other features with the process of Git. 
+
+# Merge 
+The merge command allows you to take multiple independent lines of code and merging them into one Git branch making it one branch.
+
+# Merge Conflict
+These occur when commiting changes are made on the same line of code in a file. Or when a person is making changes to the file and another is deleting that same said file. 
+
+# Push
+The push command allows you to commit local repository content to a different repository. 
+
+# Pull
+It requests and lets others know about the changes you've pushed to a branch in a repository in Github. 
+
+# Remote
+This is a Git repository that is hosted on another network or internet. 
+
+# Repository 
+It tracks all of the changes you have made to any files in your project history. 
